@@ -1,5 +1,7 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. tutorial5.
+       PROGRAM-ID. while.
+       AUTHOR. Paul McQuade.
+       DATE-WRITTEN. 28th April 2020
         
        DATA DIVISION.
        WORKING-STORAGE SECTION.

@@ -1,5 +1,8 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. prosum.
+       AUTHOR. Paul McQuade.
+       DATE-WRITTEN. 28th April 2020
+       
        DATA DIVISION.
        WORKING-STORAGE SECTION.
               01 Num1    PIC 9 VALUE 5.
